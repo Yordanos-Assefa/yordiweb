@@ -1,0 +1,14 @@
+Target Group
+
+Set of web page desgined using html and css to demonstrate is for educational type, any form of students can
+read and learn from it.
+
+Objectives
+
+Getting practical experience to a website desgined from web page using html and css demonstrate what was learned about UI/UX in the
+the course.
+prepare web forms using css
+using Hypertext reference to navigate between pages
+Hosting a basic website using github pages ( subfeature of github respositories)
+
+# YORDANOSE ASSEFA.github.io

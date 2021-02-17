@@ -1,0 +1,18 @@
+
+body{padding: 6%;
+    background-image: url("back ground.jpg");}
+}
+h1{color: mediumblue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(146, 180, 243);}
+h2{color: mediumblue;}
+h3{color: mediumblue;}
+h4{color: mediumblue;}
+h5{color: mediumblue;}
+h6{color: mediumblue;}
+a  {
+    background-color: rgb(235, 137, 91);
+    color: darkturquoise;  
+    padding: 1em 1.5em; 
+    text-transform: uppercase;
+}
